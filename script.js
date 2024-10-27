@@ -10,10 +10,10 @@ console.log("hello" + "  " + "world")
 // 3. Write code to output "Hello" on one line and "World!" on the next line to the console.
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
-
+console.log("hello\n" + "world")
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
-
+console.log(3 * 8 + 2)
 // 5. Write code to output the result of the comparison:
 // 5 is less than 10.
 
